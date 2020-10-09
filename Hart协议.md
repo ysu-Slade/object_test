@@ -76,3 +76,5 @@ ITXD 输入 输入传输数据，从uart过来的待发送的HART数据流
 待解决问题：
 
 ![1602214675897](C:\Users\Slade\AppData\Roaming\Typora\typora-user-images\1602214675897.png)
+
+![](D:\Git\picture\待解决问题.png)
